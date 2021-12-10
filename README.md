@@ -3,5 +3,5 @@
 cd ./server
 yarn install
 
-cd ./client
+cd ../client
 yarn install
